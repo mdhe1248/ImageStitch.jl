@@ -3,6 +3,21 @@ uuid = "e5213a43-68a7-4892-8359-4b199a492e9f"
 authors = ["Donghoon Lee <mdhe1248@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+CoordinateTransformations = "150eb455-5306-5404-9cee-2592286d6298"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+ImageView = "86fae568-95e7-573e-a6b2-d8a6b900c9ef"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NRRD = "9bb6cfbd-7763-5393-b1b5-1c8e09872146"
+OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
+RegisterQD = "ac24ea0c-1830-11e9-18d4-81f172323054"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+TiffImages = "731e570b-9d59-4bfa-96dc-6df516fadf69"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+
 [compat]
 julia = "1.6.4"
 
